@@ -9,10 +9,6 @@ import com.capgemini.poc.vo.BillingAccountVO;
 @Service
 public class BillingAccountService {
 
-<<<<<<< HEAD
-	
-=======
->>>>>>> b1c9eb699512c0d42a4adfa2c1adb9de56cff2bf
 	@Autowired
 	private BillingAccountRepositoryDAO billingAccountRepository;
 
